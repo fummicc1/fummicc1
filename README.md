@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fummicc1" target="blank"><img src="https://img.shields.io/twitter/follow/fummicc1?logo=twitter&style=for-the-badge" alt="fummicc1" /></a> </p>
 
-- 🔭 I’m currently studying **electronic information engineering** at Keio University. Example field: LSI, Image Processing, Control Engineering.
-
-- 🔭 I’m also working as **a moblie application engineer** using Swift, Kotlin and Dart.
+- 🔭 I’m working as **a moblie application engineer** using Swift, Kotlin and Dart.
 
 - 🌱 I’m currently learning **TypeScript, Rust, Python**
-
-- 👯 I’m looking to collaborate on [KCS](https://github.com/kcs1959)
 
 - 👨‍💻 All of my projects are available at [fummicc1.dev](https://fummicc1.dev)
 
