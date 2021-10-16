@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **electronic information engineering** at Keio University. Example field: LSI, Image Processing, Control Engineering.
 
-- 🔭 I’m also working as **a moblie application engineer** using Swift, Kotlin, Dart.
+- 🔭 I’m also working as **a moblie application engineer** using Swift, Kotlin and Dart.
 
 - 🌱 I’m currently learning **TypeScript, Rust, Python**
 
