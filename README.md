@@ -26,8 +26,6 @@
 <a href="https://twitter.com/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fummicc1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fummicc1" height="30" width="40" /></a>
 <a href="https://kaggle.com/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fummicc1" height="30" width="40" /></a>
-<a href="https://fb.com/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fummicc1" height="30" width="40" /></a>
-<a href="https://instagram.com/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fummicc1" height="30" width="40" /></a>
 <a href="https://medium.com/@fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fummicc1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fummicc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fummicc1" height="30" width="40" /></a>
 </p>
