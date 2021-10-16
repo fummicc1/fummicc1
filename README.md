@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [KCS](https://github.com/kcs1959)
 
-- 👨‍💻 All of my projects are available at [fummicc1.dev](fummicc1.dev)
+- 👨‍💻 All of my projects are available at [fummicc1.dev](https://fummicc1.dev)
 
 - 💬 Ask me about **Swift, Kotlin**
 
