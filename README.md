@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fummicc1" target="blank"><img src="https://img.shields.io/twitter/follow/fummicc1?logo=twitter&style=for-the-badge" alt="fummicc1" /></a> </p>
 
-- 🔭 I’m currently working on [JXPRESS](https://jxpress.net/), [Life is Tech !](https://life-is-tech.com/)
+- 🔭 I’m currently studying **electronic information engineering** at Keio University. Example field: LSI, Image Processing, Control Engineering.
+
+- 🔭 I’m also working as **a moblie application engineer** using Swift, Kotlin, Dart.
 
 - 🌱 I’m currently learning **TypeScript, Rust, Python**
 
