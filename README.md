@@ -25,5 +25,5 @@
 <h1> About me </h1>
 <p>
 I am a software developer who is basically curious about iOS app development and image processing. I have some experimence as iOS engineer but I am senior studen at Keio unviersity in Japan as well.
-On GitHub, I mainly publish every software that I made as much as possible so that keep high motivation for development, by explicitlty showing my working.
+On GitHub, I mainly publish every software that I made as much as possible so that keep high motivation for development, by explicitly showing my working.
   </p>
