@@ -15,7 +15,7 @@
 
 <p>
 <a href="https://github.com/fummicc1">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fummicc1&count_private=false&show_icons=true&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fummicc1&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/fummicc1">
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fummicc1&layout=compact&theme=dracula" />
