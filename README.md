@@ -22,8 +22,3 @@
 </a>
 </p>
 
-<h1> About me </h1>
-<p>
-I am a software developer who is basically curious about iOS app development and image processing. I have some experimence as iOS engineer but I am a senior student in Keio unviersity in Japan as well.
-On GitHub, though some of repositories must be private, I try to create publish repository as much as possible so that keep high motivation of development.
-  </p>
