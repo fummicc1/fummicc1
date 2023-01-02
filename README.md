@@ -11,14 +11,14 @@
 [![](https://zenn.badge.nikaera.com/s/fummicc1/likes?style=plastic)](https://zenn.dev/fummicc1)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fummicc1&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fummicc1)
 
 <p>
 <a href="https://github.com/fummicc1">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fummicc1&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=fummicc1&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/fummicc1">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fummicc1&layout=compact&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fummicc1&layout=compact" />
 </a>
 </p>
 
