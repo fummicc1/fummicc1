@@ -12,3 +12,6 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fummicc1)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fummicc1)](https://github.com/fummicc1/github-readme-stats)
+
